@@ -6,7 +6,7 @@
     <message>
         <location filename="../DoorRandomizer/GUI/DoorExcluder/doorexcluder.ui" line="14"/>
         <source>Exclude doors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exclure portes</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/DoorExcluder/doorexcluder.ui" line="24"/>
@@ -46,17 +46,17 @@
     <message>
         <location filename="../DoorRandomizer/GUI/DoorExcluder/doorexcluder.ui" line="95"/>
         <source>This door cannot be randomized.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette porte ne peut pas être aléatoire</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/DoorExcluder/doorexcluder.ui" line="102"/>
         <source>Room:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salle :</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/DoorExcluder/doorexcluder.ui" line="112"/>
         <source>Door:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Porte :</translation>
     </message>
 </context>
 <context>
@@ -75,26 +75,26 @@
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="35"/>
         <source>Ice</source>
         <extracomment>The Ice Beam</extracomment>
-        <translation type="unfinished">Glace</translation>
+        <translation type="unfinished">Rayon de Glace</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="45"/>
         <source>Power</source>
         <comment>power-beam</comment>
         <extracomment>The Power Beam</extracomment>
-        <translation type="unfinished">Puissance</translation>
+        <translation type="unfinished">Rayon de Puissance</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="58"/>
         <source>Wave</source>
         <extracomment>The Wave Beam</extracomment>
-        <translation type="unfinished">Onde</translation>
+        <translation type="unfinished">Rayon d&apos;Onde</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="68"/>
         <source>Plasma</source>
         <extracomment>The Plasma Beam</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rayon de Plasma</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="78"/>
@@ -105,7 +105,7 @@
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="85"/>
         <source>Charge</source>
         <extracomment>The Charge Beam</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rayon de Charge</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="92"/>
@@ -139,25 +139,25 @@ The Phazon Suit</extracomment>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="144"/>
         <source>Combat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Viseur de Combat</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="157"/>
         <source>Scan</source>
         <extracomment>The Scan Visor</extracomment>
-        <translation type="unfinished">Analyse</translation>
+        <translation type="unfinished">Viseur d&apos;Analyse</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="167"/>
         <source>Thermal</source>
         <extracomment>The Thermal Visor</extracomment>
-        <translation type="unfinished">Infrarouge</translation>
+        <translation type="unfinished">Viseur Infrarouge</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="174"/>
         <source>X-Ray</source>
         <extracomment>The X-Ray Visor</extracomment>
-        <translation type="unfinished">Radioscopique</translation>
+        <translation type="unfinished">Viseur Radioscopique</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="184"/>
@@ -192,13 +192,13 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="234"/>
         <source>Gravity</source>
         <extracomment>The Gravity Suit</extracomment>
-        <translation type="unfinished">Gravité</translation>
+        <translation type="unfinished">Costume de Gravité</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="241"/>
         <source>Varia</source>
         <extracomment>The Varia Suit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Costume Varia</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="251"/>
@@ -232,12 +232,12 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="293"/>
         <source>Missiles</source>
         <extracomment>Missile expansions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réserve de missiles</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="310"/>
         <source>Energy tanks</source>
-        <translation type="unfinished">Energie</translation>
+        <translation type="unfinished">Réserve d&apos;énergie</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PickupSettings/initialpickupsettings.ui" line="324"/>
@@ -260,18 +260,18 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="37"/>
         <source>This will make the game not pause when you collect an upgrade or expansion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cela empêchera le jeu de se mettre en pause lors de la collecte d&apos;objet</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="40"/>
         <source>Skip item collected messages</source>
         <extracomment>To skip showing a message that displays &quot;you&apos;ve collected an item!&quot;</extracomment>
-        <translation type="unfinished">Message de collecte d&apos;objet</translation>
+        <translation type="unfinished">Passer les messages de collecte d&apos;objet</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="47"/>
         <source>Skip Pirate Frigate</source>
-        <translation type="unfinished">Frégate Orphéon</translation>
+        <translation type="unfinished">Passer la Frégate Orphéon</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="57"/>
@@ -286,7 +286,7 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="73"/>
         <source>Combine the obtained suits&apos; defenses</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Combiner la résistance des costumes acquis</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="76"/>
@@ -342,11 +342,11 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="160"/>
         <source>Fix Flaahgra music files</source>
         <extracomment>Either &quot;to fix broken music files&quot; or &quot;to use the full version of Flaahgra&apos;s song&quot;</extracomment>
-        <translation type="unfinished">Corriger les fichiers audio pour Flaahgra</translation>
+        <translation type="unfinished">Réparer les fichiers audio pour Flaahgra</translation>
     </message>
     <message>
         <source>Fix Flaaghra music files</source>
-        <translation type="obsolete">Corriger les fichiers audio pour Flaahgra</translation>
+        <translation type="obsolete">Réparer les fichiers audio pour Flaahgra</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="167"/>
@@ -357,7 +357,7 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="177"/>
         <source>Either American or European version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soit la version Américaine ou la version Européenne</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/PatchSettings/patchsettingspanel.ui" line="187"/>
@@ -421,12 +421,12 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.ui" line="73"/>
         <source>Seed</source>
         <extracomment>By this we refer as a germinator or generator.</extracomment>
-        <translation type="unfinished">Germe</translation>
+        <translation type="unfinished">Graîne</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.ui" line="80"/>
         <source>Range: 0 to 4294967295</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">De 0 à 4294967295</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.ui" line="93"/>
@@ -465,7 +465,7 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
     <message>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.ui" line="960"/>
         <source>Exclude doors...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exclure portes...</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.ui" line="146"/>
@@ -527,11 +527,11 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
     <message>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.ui" line="951"/>
         <source>Advanced settings</source>
-        <translation type="unfinished">Ajustements avancés</translation>
+        <translation type="unfinished">Options avancés</translation>
     </message>
     <message>
         <source>Exclude doors... (coming soon)</source>
-        <translation type="obsolete">Exclure portes... (avenir)</translation>
+        <translation type="obsolete">Exclure portes... (bientôt)</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.ui" line="967"/>
@@ -724,7 +724,7 @@ Here we refer to &quot;Morph Ball&quot; standalone upgrade</extracomment>
     <message>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.cpp" line="260"/>
         <source>Succesfully patched the game!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le jeu a été patché avec succès!</translation>
     </message>
     <message>
         <location filename="../DoorRandomizer/GUI/MainWindow/randomizergui.cpp" line="267"/>
